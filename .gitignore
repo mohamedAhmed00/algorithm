@@ -1,0 +1,4 @@
+/www/vendor
+.env
+/storage
+/.idea
